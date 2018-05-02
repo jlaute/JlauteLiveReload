@@ -3,8 +3,8 @@
         xsi:noNamespaceSchemaLocation="../../../engine/Shopware/Components/Plugin/schema/plugin.xsd">
     <label lang="de">Live Reload</label>
     <label lang="en">Live Reload</label>
-    <copyright>Jörg Lautenschlager</copyright>
     <version>1.0.0</version>
+    <copyright>Jörg Lautenschlager</copyright>
     <license>MIT</license>
     <link>https://github.com/jlaute/LiveReload</link>
     <author>Jörg Lautenschlager</author>
